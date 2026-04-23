@@ -107,7 +107,7 @@ drowsiness_detection/
 
 ##  Author
 
-Vedika Srivastava
+Teesha Sahu
 
 ---
 
